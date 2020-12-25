@@ -1,6 +1,6 @@
 name: "drillmod"
-displayName: "[#008CFF]Diamond[] Mod" //what displays in the mod selection menu
+displayName: "sei la"
 author: "alex"
-description: "mod que adiciona diamantes"
+description: "adiciona drill"
 version: "[#FFEC00]1.1[]"
 minGameVersion: "122"
