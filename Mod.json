@@ -1,6 +1,6 @@
-name: "drillmod"
-displayName: "sei la"
-author: "alex"
-description: "adiciona drill"
-version: "[#FFEC00]1.1[]"
-minGameVersion: "122"
+name: "drill-mod",
+author: "alex",
+description: "mod que adiciona drills",
+version: 0.1,
+minGameVersion: "122",
+dependencies: []
